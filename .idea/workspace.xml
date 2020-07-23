@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8c71ce69-7ff2-4711-a73e-29c9f402634f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.0.102:5555" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.0.104:5555" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -138,9 +143,21 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="781" y="148" key="#app" timestamp="1595484499008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="148" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1595484499008" />
     <state x="563" y="146" key="SettingsEditor" timestamp="1595424061879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="563" y="146" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595424061879" />
+    <state x="462" y="104" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595484249629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="462" y="104" width="1200" height="800" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595484249629" />
+    <state x="725" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1595484147770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595484147770" />
   </component>
 </project>
